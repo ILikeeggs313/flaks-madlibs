@@ -1,0 +1,18 @@
+h1{
+    color: teal;
+}
+
+body{
+    background-color: #ddd;
+
+}
+
+.prompt:hover{
+    color: blue;
+    
+    
+}
+
+/* ::placeholder:hover{
+    color: red; */
+/* } */
